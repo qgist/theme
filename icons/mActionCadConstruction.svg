@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#4D4D4D" width="16" height="16"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M6.122,0.5h8.126c0.689,0,1.252,0.558,1.252,1.248v12.505c0,0.689-0.563,1.247-1.252,1.247H1.747
+			c-0.685,0-1.247-0.558-1.247-1.247V6.124h5.622V0.5z"/>
+	</defs>
+	<use xlink:href="#SVGID_1_"  overflow="visible" fill="#662D91"/>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<use xlink:href="#SVGID_1_"  overflow="visible" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10"/>
+</g>
+<g>
+	<polygon fill="#808080" points="10.091,9.809 10.091,3.581 7.825,3.581 7.825,2.382 12.535,2.382 13.447,3.581 11.29,3.581 
+		11.29,9.809 	"/>
+	<path fill="#FFFFFF" d="M12.411,2.632l0.531,0.698H11.54h-0.5v0.5v5.728h-0.699V3.831v-0.5h-0.5H8.075V2.647V2.632H12.411
+		 M12.659,2.132H7.575v0.515v1.183h2.266v6.228h1.699V3.831h2.411L12.659,2.132L12.659,2.132z"/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="-0.058 -0.746 16 16" enable-background="new -0.058 -0.746 16 16"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<path fill="#29ABE2" d="M7.942,12.879c-3.102,0-5.625-2.522-5.625-5.624c0-3.102,2.523-5.626,5.625-5.626s5.625,2.524,5.625,5.626
+		C13.567,10.356,11.043,12.879,7.942,12.879z"/>
+	<path fill="#FFFFFF" d="M7.942,2.004c2.895,0,5.25,2.355,5.25,5.251c0,2.895-2.355,5.249-5.25,5.249
+		c-2.895,0-5.25-2.354-5.25-5.249C2.692,4.359,5.047,2.004,7.942,2.004 M7.942,1.254c-3.313,0-6,2.687-6,6.001
+		c0,3.312,2.687,5.999,6,5.999s6-2.688,6-5.999C13.942,3.94,11.255,1.254,7.942,1.254L7.942,1.254z"/>
+</g>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M2.371,6.396c0,0,1.885-1.736,5.571-1.714
+	c3.68,0.022,5.572,1.714,5.572,1.714"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M2.371,8.111c0,0,1.885,1.679,5.571,1.715
+	c3.973,0.037,5.572-1.715,5.572-1.715"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M7.084,1.511c0,0-1.707,1.908-1.714,5.743
+	c-0.007,3.579,1.714,5.5,1.714,5.5"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M8.799,1.511c0,0,1.698,2.069,1.715,5.743
+	c0.015,3.676-1.715,5.631-1.715,5.631"/>
+<path fill="#333333" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M7.527,7.797
+	C3.478,7.758,0.442,5.915,0.442,5.915c0.25-0.841,2.451-4.214,4.147-5.452C5.072,0.11,4.483,0.94,7.885,0.94
+	c3.301,0,2.841-0.768,3.295-0.478c1.786,1.141,4.083,4.771,4.262,5.452C15.442,5.914,11.891,7.838,7.527,7.797z"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M6.943,0.874c0,0-1.875,2.377-1.883,6.592"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M8.827,0.874c0,0,1.865,2.555,1.883,6.592"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M2.206,2.82c0,0,1.63,1.551,5.679,1.527
+	c4.042-0.025,5.661-1.496,5.661-1.496"/>
+</svg>

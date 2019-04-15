@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#4D4D4D" width="16" height="16"/>
+<g>
+	<rect x="0.375" y="11.804" fill="#B982E8" width="15.25" height="3.821"/>
+	<path fill="#FFFFFF" d="M15.25,12.179v3.071H0.75v-3.071H15.25 M16,11.429H0V16h16V11.429L16,11.429z"/>
+</g>
+<g>
+	<rect x="0.375" y="0.375" fill="#B982E8" width="15.25" height="3.821"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v3.071H0.75V0.75H15.25 M16,0H0v4.571h16V0L16,0z"/>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="8" y1="6.152" x2="8.015" y2="10.164"/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" points="9.891,8.865 
+	8.015,10.49 6.14,8.865 "/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" points="6.125,7.373 
+	8,5.547 9.875,7.373 "/>
+</svg>

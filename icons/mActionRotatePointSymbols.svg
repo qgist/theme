@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M8.213,3.414c2.248,0.055,4.02,1.984,3.963,4.316"
+	/>
+<polygon stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="12.565,6.761 13.646,6.756 12.029,8.709 10.396,6.771 
+	11.466,6.767 "/>
+<g>
+	<polygon fill="#662D91" points="0.649,6.522 3.982,0.75 7.316,6.522 	"/>
+	<path fill="#FFFFFF" d="M3.982,1.5l2.684,4.647H1.299L3.982,1.5 M3.982,0L0,6.897h7.965L3.982,0L3.982,0z"/>
+</g>
+<g>
+	<polygon fill="#BB8FE2" points="8.615,9.478 15.281,9.478 11.947,15.25 	"/>
+	<path fill="#FFFFFF" d="M14.632,9.853L11.947,14.5L9.265,9.853H14.632 M15.931,9.103H7.965L11.947,16L15.931,9.103L15.931,9.103z"
+		/>
+</g>
+</svg>

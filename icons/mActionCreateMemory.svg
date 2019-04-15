@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 -3.3 16 16" enable-background="new 0 -3.3 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.25" y="0.25" fill="#29ABE2" width="15.5" height="4.072"/>
+	<path fill="#FFFFFF" d="M15.5,0.5v3.572h-15V0.5H15.5 M16,0H0v4.572h16V0L16,0z"/>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="0.286" y1="4.457" x2="0.286" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="15.714" y1="4.457" x2="15.714" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="10.286" y1="1.304" x2="10.286" y2="4.572"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="14" y1="4.457" x2="14" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="12.286" y1="4.457" x2="12.286" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="7.714" y1="4.457" x2="7.714" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="5.857" y1="4.457" x2="5.857" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="4" y1="4.457" x2="4" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="2.143" y1="4.457" x2="2.143" y2="5.6"/>
+<g>
+	<path fill="#E6E6E6" d="M12.499,12.325c-1.723,0-3.124-1.402-3.124-3.127c0-1.723,1.401-3.123,3.124-3.123
+		c1.724,0,3.126,1.4,3.126,3.123C15.625,10.923,14.223,12.325,12.499,12.325z"/>
+	<path fill="#FFFFFF" d="M12.499,6.45c1.517,0,2.751,1.232,2.751,2.748c0,1.518-1.234,2.752-2.751,2.752
+		c-1.516,0-2.749-1.234-2.749-2.752C9.75,7.683,10.983,6.45,12.499,6.45 M12.499,5.7C10.566,5.7,9,7.267,9,9.198
+		c0,1.934,1.566,3.502,3.499,3.502C14.434,12.7,16,11.132,16,9.198C16,7.267,14.434,5.7,12.499,5.7L12.499,5.7z"/>
+</g>
+<line fill="none" stroke="#333333" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="10.959" y1="7.722" x2="13.918" y2="10.679"/>
+<line fill="none" stroke="#333333" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="13.918" y1="7.722" x2="10.959" y2="10.679"/>
+<line fill="none" stroke="#333333" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="12.459" y1="7.228" x2="12.459" y2="11.173"/>
+<line fill="none" stroke="#333333" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="10.527" y1="9.2" x2="14.473" y2="9.2"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 -5 16 16" enable-background="new 0 -5 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.375" y="0.375" fill="#29ABE2" width="15.25" height="3.821"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v3.071H0.75V0.75H15.25 M16,0H0v4.571h16V0L16,0z"/>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="0.38" y1="4.515" x2="0.38" y2="5.658"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="15.63" y1="4.457" x2="15.63" y2="5.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="10.286" y1="1.304" x2="10.286" y2="4.571"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="12.971" y1="4.457" x2="12.971" y2="6.171"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="10.914" y1="4.457" x2="10.914" y2="6.171"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="8.972" y1="4.457" x2="8.972" y2="6.171"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="5.485" y1="4.457" x2="5.485" y2="6.171"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="3.429" y1="4.457" x2="3.429" y2="6.171"/>
+</svg>

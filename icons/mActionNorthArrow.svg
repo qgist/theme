@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="-3 0 16 16" enable-background="new -3 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<polygon fill="#4D4D4D" points="5,11.301 0.741,14.886 5,1.257 9.259,14.886 	"/>
+	<path fill="#FFFFFF" d="M5,2.515l3.518,11.258l-3.035-2.556L5,10.811l-0.483,0.406l-3.035,2.556L5,2.515 M5,0L0,16l5-4.209L10,16
+		L5,0L5,0z"/>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="5" y1="11.5" x2="5" y2="2"/>
+</svg>

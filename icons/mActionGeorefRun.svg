@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0.674 0.674 16 16" enable-background="new 0.674 0.674 16 16"
+	 xml:space="preserve">
+<defs>
+</defs>
+<line fill="none" stroke="#B3B3B3" stroke-width="0.75" stroke-miterlimit="10" x1="5.674" y1="0.674" x2="5.674" y2="16.674"/>
+<line fill="none" stroke="#B3B3B3" stroke-width="0.75" stroke-miterlimit="10" x1="16.674" y1="11.674" x2="0.674" y2="11.674"/>
+<line fill="none" stroke="#B3B3B3" stroke-width="0.75" stroke-miterlimit="10" x1="16.674" y1="5.674" x2="0.674" y2="5.674"/>
+<line fill="none" stroke="#B3B3B3" stroke-width="0.75" stroke-miterlimit="10" x1="11.674" y1="0.674" x2="11.674" y2="16.674"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="2.533" y1="2.733" x2="9.395" y2="17.188"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="17.188" y1="7.953" x2="2.733" y2="14.815"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="14.614" y1="2.533" x2="0.161" y2="9.395"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="7.953" y1="0.161" x2="14.815" y2="14.614"/>
+</svg>

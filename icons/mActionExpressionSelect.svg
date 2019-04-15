@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect fill="#EAD303" width="12" height="12.076"/>
+	<path fill="#FFFFFF" d="M9,0H7.5v0.75H9V0L9,0z M6,0H4.5v0.75H6V0L6,0z M3,0H1.5v0.75H3V0L3,0z M0.75,0H0v1.5h0.75V0L0.75,0z
+		 M0.75,3H0v1.5h0.75V3L0.75,3z M0.75,6H0v1.5h0.75V6L0.75,6z M0.75,9H0v1.5h0.75V9L0.75,9z M1.424,11.326H0V12l0,0v-0.674V12l0,0
+		v0.076h0.75l0,0l0,0l0,0l0,0c0.343,0,0.674,0,0.674,0V11.326L1.424,11.326z M4.424,11.326h-1.5v0.75h1.5V11.326L4.424,11.326z
+		 M7.424,11.326h-1.5v0.75h1.5V11.326L7.424,11.326z M10.424,11.326h-1.5v0.75h1.5V11.326L10.424,11.326z M12,10.652h-0.75v1.424
+		h0.674l0,0H11.25h0.674l0,0H12V10.652L12,10.652z M12,7.652h-0.75v1.5H12V7.652L12,7.652z M12,4.652h-0.75v1.5H12V4.652L12,4.652z
+		 M12,1.652h-0.75v1.5H12V1.652L12,1.652z M12,0h-1.5v0.75H12V0L12,0z"/>
+</g>
+<g>
+	<rect x="0.375" y="10.875" fill="#4D4D4D" width="15.25" height="4.806"/>
+	<path fill="#FFFFFF" d="M15.25,11.25v4.056H0.75V11.25H15.25 M16,10.5H0v5.556h16V10.5L16,10.5z"/>
+</g>
+<path fill="#FFFFFF" d="M5.1,14.785l-2.915-1.209v-0.762L5.1,11.604v0.91l-1.771,0.684L5.1,13.88V14.785z"/>
+<path fill="#FFFFFF" d="M5.694,13.029H6.81v1.046H5.694V13.029z"/>
+<path fill="#FFFFFF" d="M7.443,13.029h1.115v1.046H7.443V13.029z"/>
+<path fill="#FFFFFF" d="M9.192,13.029h1.115v1.046H9.192V13.029z"/>
+<path fill="#FFFFFF" d="M10.9,13.88l1.771-0.683L10.9,12.514v-0.91l2.915,1.211v0.762L10.9,14.785V13.88z"/>
+</svg>

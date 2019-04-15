@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0.012 0.015 16 16" enable-background="new 0.012 0.015 16 16"
+	 xml:space="preserve">
+<defs>
+</defs>
+<line fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-miterlimit="10" x1="0" y1="8.013" x2="16.027" y2="8.013"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-miterlimit="10" x1="8.012" y1="16.027" x2="8.012" y2="0"/>
+<line fill="none" stroke="#4D4D4D" stroke-miterlimit="10" x1="1.262" y1="8.015" x2="14.762" y2="8.015"/>
+<line fill="none" stroke="#4D4D4D" stroke-miterlimit="10" x1="8.011" y1="14.765" x2="8.011" y2="1.265"/>
+</svg>

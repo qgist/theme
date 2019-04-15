@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.375" y="0.375" fill="#F9D023" width="5.083" height="5.083"/>
+	<path fill="#FFFFFF" d="M5.083,0.75v4.333H0.75V0.75H5.083 M5.833,0H0v5.833h5.833V0L5.833,0z"/>
+</g>
+<g>
+	<rect x="0.375" y="10.543" fill="#48BDE5" width="5.083" height="5.082"/>
+	<path fill="#FFFFFF" d="M5.083,10.918v4.332H0.75v-4.332H5.083 M5.833,10.168H0V16h5.833V10.168L5.833,10.168z"/>
+</g>
+<g>
+	<rect x="0.375" y="5.451" fill="#D9E021" width="5.083" height="5.083"/>
+	<path fill="#FFFFFF" d="M5.083,5.826v4.333H0.75V5.826H5.083 M5.833,5.076H0v5.833h5.833V5.076L5.833,5.076z"/>
+</g>
+<g>
+	<rect x="5.451" y="0.375" fill="#F15A24" width="5.083" height="5.083"/>
+	<path fill="#FFFFFF" d="M10.159,0.75v4.333H5.826V0.75H10.159 M10.909,0H5.076v5.833h5.833V0L10.909,0z"/>
+</g>
+<g>
+	<rect x="5.451" y="5.425" fill="#39B54A" width="5.084" height="5.082"/>
+	<path fill="#FFFFFF" d="M10.16,5.8v4.332H5.826V5.8H10.16 M10.91,5.05H5.076v5.832h5.834V5.05L10.91,5.05z"/>
+</g>
+<g>
+	<rect x="5.451" y="10.543" fill="#0071BC" width="5.084" height="5.082"/>
+	<path fill="#FFFFFF" d="M10.16,10.918v4.332H5.826v-4.332H10.16 M10.91,10.168H5.076V16h5.834V10.168L10.91,10.168z"/>
+</g>
+<g>
+	<rect x="10.541" y="10.543" fill="#2E3192" width="5.084" height="5.082"/>
+	<path fill="#FFFFFF" d="M15.25,10.918v4.332h-4.334v-4.332H15.25 M16,10.168h-5.834V16H16V10.168L16,10.168z"/>
+</g>
+<g>
+	<rect x="10.541" y="5.467" fill="#006837" width="5.084" height="5.082"/>
+	<path fill="#FFFFFF" d="M15.25,5.842v4.332h-4.334V5.842H15.25 M16,5.092h-5.834v5.832H16V5.092L16,5.092z"/>
+</g>
+<g>
+	<rect x="10.541" y="0.375" fill="#C1272D" width="5.084" height="5.082"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v4.332h-4.334V0.75H15.25 M16,0h-5.834v5.832H16V0L16,0z"/>
+</g>
+</svg>

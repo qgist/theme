@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="11.803" y="0.375" fill="#B982E8" width="3.822" height="15.25"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v14.5h-3.072V0.75H15.25 M16,0h-4.572v16H16V0L16,0z"/>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="11.428" y1="13.714" x2="13.714" y2="13.714"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="11.428" y1="6.857" x2="13.714" y2="6.857"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="11.428" y1="4.571" x2="14.705" y2="4.571"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="11.428" y1="2.286" x2="13.714" y2="2.286"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="11.428" y1="9.143" x2="13.714" y2="9.143"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="11.428" y1="11.429" x2="13.714" y2="11.429"/>
+<g>
+	<polygon fill="#662D91" points="0.375,15.625 0.375,0.955 13.997,15.625 	"/>
+	<path fill="#FFFFFF" d="M0.75,1.91l12.388,13.34H0.75V1.91 M0,0v16h14.857L0,0L0,0z"/>
+</g>
+<polyline fill="#FFFFFF" points="2.4,6.215 9.258,13.601 2.4,13.601 "/>
+</svg>

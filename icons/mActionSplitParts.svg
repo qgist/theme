@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="-0.125 -0.625 16 16" enable-background="new -0.125 -0.625 16 16"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path fill="#662D91" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M6.089,12.566
+	c-4.418,0-5.714-2.324-5.714-5.192c0-2.82,1.253-5.116,5.497-5.191c0.008,0,0.218,0.013,0.218,0.013V12.566z"/>
+<path fill="#662D91" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M9.661,12.566
+	c4.418,0,5.714-2.324,5.714-5.192c0-2.82-1.252-5.116-5.497-5.191c-0.008,0-0.217,0.013-0.217,0.013V12.566z"/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" points="6.427,0.375 
+	7.927,12.204 9.427,0.375 "/>
+</svg>

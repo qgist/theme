@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="-1.072 0 16 16" enable-background="new -1.072 0 16 16"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<polygon fill="#8CC63F" points="0.375,0.649 13.105,8.001 0.375,15.351 	"/>
+	<path fill="#FFFFFF" d="M0.75,1.299l11.605,6.702l-11.605,6.7V1.299 M0,0v16l13.855-7.999L0,0L0,0z"/>
+</g>
+</svg>

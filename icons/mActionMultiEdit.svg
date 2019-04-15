@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.25" y="0.25" fill="#CCCCCC" width="15.5" height="15.5"/>
+	<path fill="#FFFFFF" d="M15.5,0.5v15h-15v-15H15.5 M16,0H0v16h16V0L16,0z"/>
+</g>
+<g>
+	<rect x="2.375" y="2.375" fill="#FF7BAC" width="8.837" height="2.75"/>
+	<path fill="#FFFFFF" d="M10.837,2.75v2H2.75v-2H10.837 M11.587,2H2v3.5h9.587V2L11.587,2z"/>
+</g>
+<g>
+	<rect x="2.375" y="6.785" fill="#ED1E79" width="8.835" height="2.75"/>
+	<path fill="#FFFFFF" d="M10.835,7.16v2H2.75v-2H10.835 M11.585,6.41H2v3.5h9.585V6.41L11.585,6.41z"/>
+</g>
+<g>
+	<rect x="2.375" y="11.196" fill="#9E005D" width="8.838" height="2.75"/>
+	<path fill="#FFFFFF" d="M10.838,11.571v2H2.75v-2H10.838 M11.588,10.821H2v3.5h9.588V10.821L11.588,10.821z"/>
+</g>
+<g>
+	<polygon fill="#B3B3B3" points="4.883,9.721 10.578,0.343 13.367,2.034 7.556,11.423 3.457,15.234 	"/>
+	<path fill="#FFFFFF" d="M10.663,0.687l2.359,1.43l-5.645,9.118l-3.464,3.23l1.193-4.61L10.663,0.687 M10.494,0L4.641,9.658L3,16
+		l4.768-4.445l5.945-9.604L10.494,0L10.494,0z"/>
+</g>
+<path fill="#4D4D4D" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M4.977,9.813c0,0,0.525,0.93,1.002,1.192
+	c0.563,0.309,1.479,0.334,1.479,0.334l5.272-8.42l-2.605-1.597L4.977,9.813z"/>
+</svg>

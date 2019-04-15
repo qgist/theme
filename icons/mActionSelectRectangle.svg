@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.375" y="0.375" fill="#666666" width="15.25" height="15.25"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v14.5H0.75V0.75H15.25 M16,0H0v16h16V0L16,0z"/>
+</g>
+<g>
+	<rect x="2.064" y="2.064" fill="#EED303" width="7.936" height="7.936"/>
+	<path fill="#FFFFFF" d="M10,2.064H8.5v0.75h0.75v0.992H10V2.064L10,2.064z M7,2.064H5.5v0.75H7V2.064L7,2.064z M4,2.064H2.5v0.75H4
+		V2.064L4,2.064z M2.814,3.129h-0.75v1.5h0.75V3.129L2.814,3.129z M2.814,6.129h-0.75v1.5h0.75V6.129L2.814,6.129z M2.814,9.129
+		h-0.75V10h0.75l0,0l0,0l0,0V9.129L2.814,9.129z M5.693,9.25h-1.5V10h1.5V9.25L5.693,9.25z M8.693,9.25h-1.5V10h1.5V9.25L8.693,9.25
+		z M10,8.307H9.25v1.5H10V8.307L10,8.307z M10,5.307H9.25v1.5H10V5.307L10,5.307z"/>
+</g>
+<rect x="10.223" y="9.638" transform="matrix(0.8174 -0.5761 0.5761 0.8174 -4.9028 8.6348)" fill="#FFFFFF" width="1.89" height="4.825"/>
+<g>
+	<polygon fill="#333333" points="7.002,6.478 13.156,10.66 10.38,12.719 9.201,13.587 	"/>
+	<path fill="#FFFFFF" d="M7.677,7.389l4.832,3.284l-0.753,0.557l-1.598,1.187l-0.755,0.557L7.677,7.389 M6.328,5.565l2.671,8.637
+		l1.605-1.183l1.6-1.188l1.602-1.185L6.328,5.565L6.328,5.565z"/>
+</g>
+</svg>

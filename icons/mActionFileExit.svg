@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<path fill="#F15A24" d="M1.23,15.625c-0.472,0-0.855-0.384-0.855-0.856V1.23c0-0.472,0.384-0.855,0.855-0.855h13.538
+		c0.473,0,0.856,0.384,0.856,0.855v13.538c0,0.473-0.384,0.856-0.856,0.856H1.23z"/>
+	<path fill="#FFFFFF" d="M14.769,0.75c0.266,0,0.481,0.215,0.481,0.48v13.538c0,0.266-0.216,0.481-0.481,0.481H1.23
+		c-0.265,0-0.48-0.216-0.48-0.481V1.23c0-0.265,0.215-0.48,0.48-0.48H14.769 M14.769,0H1.23C0.551,0,0,0.551,0,1.23v13.538
+		C0,15.45,0.551,16,1.23,16h13.538C15.45,16,16,15.45,16,14.769V1.23C16,0.551,15.45,0,14.769,0L14.769,0z"/>
+</g>
+<circle fill="#F15A24" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" cx="8" cy="8" r="5.714"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="8" y1="4.571" x2="8" y2="11.429"/>
+</svg>

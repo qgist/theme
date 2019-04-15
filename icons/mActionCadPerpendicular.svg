@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#4D4D4D" width="16" height="16"/>
+<g>
+	<rect x="0.375" y="0.375" fill="#662D91" width="15.25" height="2.278"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v1.528H0.75V0.75H15.25 M16,0H0v3.028h16V0L16,0z"/>
+</g>
+<polyline fill="#662D91" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" points="9.314,2.277 9.314,15.5 6.685,15.5 
+	6.685,2.277 "/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" points="9.2,6.571 13.2,6.571 13.2,2.571 "/>
+</svg>

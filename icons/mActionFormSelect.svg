@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="-2.286 0 16 16" enable-background="new -2.286 0 16 16"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.25" y="0.25" fill="#333333" width="10.929" height="15.5"/>
+	<path fill="#FFFFFF" d="M10.929,0.5v15H0.5v-15H10.929 M11.429,0H0v16h11.429V0L11.429,0z"/>
+</g>
+<rect x="1.84" y="2" fill="#EAD303" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="7.75" height="1.292"/>
+<rect x="1.84" y="5" fill="#EAD303" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="7.75" height="1.292"/>
+<rect x="1.84" y="8" fill="#EAD303" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="7.75" height="1.291"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" d="M5.917,12.67
+	c0,0,0.706,1.026,0.927,1.297c0.642,0.778,0.311-2.134,2.896-3.142"/>
+</svg>

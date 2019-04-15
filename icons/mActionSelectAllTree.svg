@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0.057 0 16 16" enable-background="new 0.057 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#666666" width="16.057" height="16"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="1.986" y1="11.118" x2="8.895" y2="11.118"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="9.415" y1="4.8" x2="9.415" y2="1.301"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="5.138" y1="4.798" x2="13.691" y2="4.798"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="5.414" y1="10.779" x2="5.414" y2="4.42"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="13.415" y1="8.987" x2="13.415" y2="4.42"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="2.271" y1="14.473" x2="2.271" y2="10.75"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="8.614" y1="14.473" x2="8.614" y2="10.75"/>
+<g>
+	<rect x="7.804" y="0.375" fill="#EED303" width="3.25" height="2.893"/>
+	<path fill="#FFFFFF" d="M10.678,0.75v2.143h-2.5V0.75H10.678 M11.428,0h-4v3.643h4V0L11.428,0z"/>
+</g>
+<g>
+	<rect x="3.732" y="6.424" fill="#EED303" width="3.25" height="2.894"/>
+	<path fill="#FFFFFF" d="M6.607,6.799v2.144h-2.5V6.799H6.607 M7.357,6.049h-4v3.644h4V6.049L7.357,6.049z"/>
+</g>
+<g>
+	<rect x="11.932" y="6.424" fill="#EED303" width="3.25" height="2.893"/>
+	<path fill="#FFFFFF" d="M14.807,6.799v2.143h-2.5V6.799H14.807 M15.557,6.049h-4v3.643h4V6.049L15.557,6.049z"/>
+</g>
+<g>
+	<rect x="0.732" y="12.731" fill="#EED303" width="3.25" height="2.894"/>
+	<path fill="#FFFFFF" d="M3.607,13.106v2.144h-2.5v-2.144H3.607 M4.357,12.356h-4V16h4V12.356L4.357,12.356z"/>
+</g>
+<g>
+	<rect x="7.004" y="12.731" fill="#EED303" width="3.25" height="2.894"/>
+	<path fill="#FFFFFF" d="M9.878,13.106v2.144h-2.5v-2.144H9.878 M10.628,12.356h-4V16h4V12.356L10.628,12.356z"/>
+</g>
+<rect x="12.476" y="11.073" transform="matrix(0.8172 -0.5763 0.5763 0.8172 -5.3189 10.1999)" fill="#FFFFFF" width="1.889" height="4.825"/>
+<g>
+	<polygon fill="#4D4D4D" points="9.255,7.912 15.41,12.095 12.633,14.153 11.455,15.021 	"/>
+	<path fill="#FFFFFF" d="M9.93,8.824l4.831,3.284l-0.752,0.556l-1.598,1.187l-0.755,0.557L9.93,8.824 M8.581,7l2.672,8.637
+		l1.604-1.183l1.6-1.188l1.601-1.185L8.581,7L8.581,7z"/>
+</g>
+</svg>

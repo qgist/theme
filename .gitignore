@@ -1,0 +1,7 @@
+env
+__pycache__/
+*.pyc
+*.*~
+.tmp/
+*.bz2
+*.md5

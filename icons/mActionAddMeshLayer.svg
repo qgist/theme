@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#4D4D4D" width="16" height="16"/>
+<rect x="0.25" y="0.25" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="4.417" y="0.25" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="8.583" y="0.25" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="0.25" y="4.417" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="4.417" y="4.417" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="8.583" y="4.417" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="0.25" y="8.583" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="4.417" y="8.583" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<rect x="8.583" y="8.583" fill="#29ABE2" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="4.167" height="4.167"/>
+<g>
+	<path fill="#E6E6E6" d="M12.5,15.625c-1.723,0-3.125-1.402-3.125-3.125s1.402-3.125,3.125-3.125s3.125,1.402,3.125,3.125
+		S14.223,15.625,12.5,15.625z"/>
+	<path fill="#FFFFFF" d="M12.5,9.75c1.517,0,2.75,1.233,2.75,2.75s-1.233,2.75-2.75,2.75s-2.75-1.233-2.75-2.75
+		S10.983,9.75,12.5,9.75 M12.5,9C10.565,9,9,10.565,9,12.5c0,1.934,1.565,3.5,3.5,3.5s3.5-1.566,3.5-3.5C16,10.565,14.435,9,12.5,9
+		L12.5,9z"/>
+</g>
+<line fill="#333333" stroke="#333333" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="12.498" y1="10.553" x2="12.498" y2="14.447"/>
+<line fill="#333333" stroke="#333333" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="10.555" y1="12.5" x2="14.445" y2="12.5"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="0.375" y="0.375" fill="#006837" width="15.25" height="15.25"/>
+	<path fill="#FFFFFF" d="M15.25,0.75v14.5H0.75V0.75H15.25 M16,0H0v16h16V0L16,0z"/>
+</g>
+<path fill="#FFFFFF" d="M5.194,12.073L1.942,8.978v-1.95l3.252-3.101v2.331L3.219,8.007l1.976,1.749V12.073z"/>
+<path fill="#FFFFFF" d="M5.395,7.577h1.244v1.342H5.395V7.577z"/>
+<path fill="#FFFFFF" d="M7.346,7.577H8.59V8.92H7.346V7.577z"/>
+<path fill="#FFFFFF" d="M9.298,7.577h1.244v1.342H9.298V7.577z"/>
+<path fill="#FFFFFF" d="M10.748,9.756l1.976-1.749l-1.976-1.749V3.927L14,7.027v1.95l-3.252,3.096V9.756z"/>
+</svg>
